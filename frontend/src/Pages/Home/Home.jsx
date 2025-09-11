@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            NITISH URL SHORTNER
+            NITISH URL SHORTENER
           </Title>
 
           <Text
